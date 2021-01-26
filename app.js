@@ -34,7 +34,7 @@ function clickEventHandler(){
     
     else
     {
-        outputDiv.innerText =input + " is not a leap year.";
+        outputDiv.innerText = input + " is not a leap year.";
     }
     // else
     // {
